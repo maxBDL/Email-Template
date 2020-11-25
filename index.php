@@ -35,7 +35,7 @@ if (!empty($_GET['delivery']) and $_GET['delivery'] === "sent") {
     <div class="container_form">
         <form action="send_email.php" method="post">
             <input type="email" name="email" placeholder="Ton email de star..." required autofocus/>
-            <button type="submit"><p>Inscris-toi !!!</p><img src="https://i.ibb.co/WkntvCL/vip.png" alt="Image logo vip" border="0"></button>
+            <button type="submit"><p>Inscris-toi !!!</p><img src="https://i.ibb.co/WkntvCL/vip.png" alt="Image logo vip"></button>
         </form>
     </div>
 

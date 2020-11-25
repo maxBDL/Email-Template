@@ -95,7 +95,7 @@ form button img {
   display: none;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 992px) {
   .container_form{
     width: 90%;
   }
@@ -116,9 +116,7 @@ form button img {
   form button p {
     font-size: 30px;
   }
-}
 
-@media screen and (min-width: 992px){
   input{
     width: 40%;
   }

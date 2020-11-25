@@ -504,7 +504,7 @@ form button img {
   display: none;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 992px) {
   /* line 99, D:/wamp64/www/MIW/CEO-Referencement/TP3/miw_day3/css/scss/style.scss */
   .container_form {
     width: 90%;
@@ -526,10 +526,7 @@ form button img {
   form button p {
     font-size: 30px;
   }
-}
-
-@media screen and (min-width: 992px) {
-  /* line 122, D:/wamp64/www/MIW/CEO-Referencement/TP3/miw_day3/css/scss/style.scss */
+  /* line 120, D:/wamp64/www/MIW/CEO-Referencement/TP3/miw_day3/css/scss/style.scss */
   input {
     width: 40%;
   }
